@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "biteup-development",
+    "production": "the-og-lunchme"
+  }
+}
